@@ -3,7 +3,7 @@ Supporting scripts and file that I have created while studying The Hackers Playb
 
 <table>
   <tr>
-    <td width="225px"><b>Filename</b></td>
-    <td><b>Description</b></td>
+    <td width="30%"><b>Filename</b></td>
+    <td width="70%"><b>Description</b></td>
   </tr>
 <table>
